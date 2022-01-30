@@ -50,11 +50,7 @@ def predict(PATH_img):
 
 model = MobileNetv2()
 model.load_state_dict(torch.load('Mobilenet_cu_chi_tay.pth'))
-'''
-PATH_img='data\\test\\test_folder\\05.png'
-res=predict(PATH_img)
-print(res)
-'''
+
 if not os.path.exists('test_camera/') : 
     os.mkdir('test_camera/')
 i = 0
