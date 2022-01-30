@@ -1,0 +1,8 @@
+numpy
+opencv-python
+torch
+tensorflow
+torchvision
+pyinstaller
+transforms
+tqdm
