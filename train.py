@@ -17,8 +17,8 @@ batch_size   = 32
 width        = 224
 height       = 224
 
-path_train = ''
-path_valid = ''
+path_train = 'data\\train'
+path_valid = 'data\\valid'
 trainDataset = CustomDataset(path_train)
 trainLoader = DataLoader(trainDataset, batch_size=batch_size, shuffle=True, num_workers=2)
  
