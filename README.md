@@ -21,3 +21,6 @@
 
 # 5.Mentors :
 * QuangTran
+# 6.Ngoài lề :
+* https://colab.research.google.com/drive/102dEpDeqyVCj5Mmj-1LJQ7vapDae08wv?usp=sharing
+* link colab bài model, có 1 chút khác với các file trên nhưng model em lưu từ đây về rồi mới cho chạy trên laptop cá nhân
