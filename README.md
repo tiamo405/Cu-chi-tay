@@ -6,7 +6,7 @@
 
 # 1.Cách cài đặt :
 * Di chuyển terminal đến folder
-* pip install -r lib.txt ( cài đặt các thư viện cần dùng, khuyến khích sử dụng anaconda )
+* pip install -r requirements.txt ( cài đặt các thư viện cần dùng, khuyến khích sử dụng anaconda )
 
 # 2.Make data 
 * python make_data.py
