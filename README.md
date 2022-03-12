@@ -16,7 +16,7 @@
 * python train.py
 
 # 4.Test code :
-* python test_torch.py
+* python pred_mobilenet.py
 * Có thể bỏ qua bước 2 và 3 để đến bước 4 vì mình đã train trước và lưu model rồi.
 
 # 5.Mentors :
