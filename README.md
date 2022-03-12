@@ -10,7 +10,7 @@
 
 # 2.Make data 
 * python make_data.py
-* Link ảnh cách để tay đúng với số : https://drive.google.com/drive/folders/1zm47smDT6d6CmT7co6IRNHf15PntASyS?usp=sharing ( ở bìa này mình chỉ dùng các số từ 0 đến 4 )
+* Link ảnh cách để tay đúng với số : https://drive.google.com/drive/folders/1zm47smDT6d6CmT7co6IRNHf15PntASyS?usp=sharing ( ở bài này mình chỉ dùng các số từ 0 đến 4 )
 
 # 3.Train model :
 * python train.py
